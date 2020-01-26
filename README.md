@@ -4,7 +4,7 @@ This is a personal project where I'm trying out some different hex arrangements 
 
 ## Data
 
-wales_hex_la was created by me in RStudio using the Cardiff hexagon in the ArcGIS shapefile as a starting point. 
+wales_hex_la was created in RStudio using the Cardiff hexagon in the ArcGIS shapefile as a starting point. 
 
 ![](new_hex.png?raw=true)
 
